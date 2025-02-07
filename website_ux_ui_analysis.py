@@ -37,7 +37,7 @@ from PIL import Image  # Import PIL for image handling
 from huggingface_hub import login
 
 # Replace 'YOUR_TOKEN_HERE' with your actual Hugging Face token
-login(token="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")
+login(token="HUGGIN_FACE_TOKEN")
 
 # Load Hugging Face Flan-T5 model
 tokenizer = AutoTokenizer.from_pretrained("google/flan-t5-base")
