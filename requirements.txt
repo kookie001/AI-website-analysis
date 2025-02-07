@@ -1,0 +1,14 @@
+# Core dependencies
+gradio                # Web-based interface for running the POC
+transformers          # AI insights using Hugging Face Flan-T5
+sentencepiece         # Required for tokenization in Hugging Face models
+pyppeteer             # Capturing website screenshots & rendering pages
+opencv-python-headless  # Image processing (without GUI)
+matplotlib           # Visualization (Lighthouse metrics, heatmaps)
+requests             # Fetching website data
+beautifulsoup4       # Extracting and parsing website HTML
+fpdf                 # Generating PDF reports
+nest_asyncio         # Handling async tasks in Google Colab
+scikit-image         # Image similarity comparison for layout shift detection
+numpy                # Numerical computations for heatmaps
+seaborn              # Advanced data visualization (alternative to heatmaps)
