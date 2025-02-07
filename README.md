@@ -19,11 +19,12 @@ It generates a detailed PDF report combining all these insights in a structured 
 ✅ PDF Reports – Generate structured reports for easy sharing
 
 🛠️ Technologies Used
-Tool/Library	               Use
-Gradio	                     Provides an interactive web-based UI
-Hugging Face Transformers	   AI-powered website recommendations
-Pyppeteer	                   Captures website screenshots
-Lighthouse CLI	             Website performance analysis
-OpenCV & Matplotlib	         Heatmap visualization & layout shift detection
-BeautifulSoup	               Extracts text & HTML for content analysis
-FPDF	                       Generates structured PDF reports
+| Tool/Library | Use                                        |
+|--------------|---------------------------------------------|
+| Gradio       | Provides an interactive web-based UI        |
+| Hugging Face Transformers | AI-powered website recommendations        |
+| Pyppeteer    | Captures website screenshots                |
+| Lighthouse CLI | Website performance analysis               |
+| OpenCV & Matplotlib | Heatmap visualization & layout shift detection |
+| BeautifulSoup | Extracts text & HTML for content analysis  |
+| FPDF         | Generates structured PDF reports           |
