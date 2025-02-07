@@ -13,9 +13,13 @@ It generates a detailed PDF report combining all these insights in a structured 
 
 ⚡ Features
 ✅ Lighthouse Metrics – Performance, SEO, Accessibility, and Best Practices Analysis
+
 ✅ AI-Generated UX Insights – Smart recommendations to improve your site
+
 ✅ Heatmaps & User Behavior Analysis – Visualize user engagement
+
 ✅ Automated Screenshot Comparison – Detect layout shifts
+
 ✅ PDF Reports – Generate structured reports for easy sharing
 
 🛠️ Technologies Used
